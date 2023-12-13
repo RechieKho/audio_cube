@@ -1,0 +1,3 @@
+-lpthread
+-lm
+-ldl
